@@ -11,3 +11,6 @@
 
 5. Vamos a settings en GitHub y seleccionamos GitHub Pages
 
+6. Seleccionamos la rama que queremos deployar 
+
+7. Guardamos los cambios y esperamos 5/10 minutos 
